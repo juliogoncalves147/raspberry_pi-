@@ -1,0 +1,6 @@
+Flask==2.3.3
+gTTS==2.3.2
+moviepy==2.0.1
+imageio==2.31.1
+imageio-ffmpeg==0.4.12
+numpy==1.27.6
